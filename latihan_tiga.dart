@@ -1,5 +1,5 @@
 void main() {
-  int nilai = 85;
+  int nilai = 80;
   if (nilai >= 90) {
     print("Nilai A");
   } else if ( nilai >= 70) {
